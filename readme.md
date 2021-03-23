@@ -1,6 +1,6 @@
-# Space Invaders
+# Minesweeper
 
-Space Invaders is a popular game, here its implemented in python.
+Minesweeper is a popular game, here its implemented in python.
 
 ![](https://github.com/Harshil783/Minesweepers/screenshot.png)
 
@@ -29,7 +29,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/Harshil783/Space-Invaders>)
+1. Fork it (<https://github.com/Harshil783/Minesweeper>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
