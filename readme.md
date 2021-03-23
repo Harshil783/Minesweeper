@@ -2,7 +2,7 @@
 
 Minesweeper is a popular game, here its implemented in python.
 
-![](https://github.com/Harshil783/Minesweepers/screenshot.png)
+![](https://github.com/Harshil783/Minesweeper/blob/master/screenshot.png)
 
 ## Installation
 
